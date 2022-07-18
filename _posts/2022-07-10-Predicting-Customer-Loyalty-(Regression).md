@@ -1,32 +1,3 @@
-2022-01-18-predicting-customer-loyalty.md
-Who has access
-
-System properties
-Type
-Text
-Size
-54 KB
-Storage used
-54 KBOwned by analytics-link
-Location
-03 - Regression
-Owner
-Andrew Jones
-Modified
-Feb 9, 2022 by Andrew Jones
-Opened
-1:05 PM by me
-Created
-Feb 10, 2022
-No description
-Viewers can download
----
-layout: post
-title: Predicting Customer Loyalty Using ML
-image: "/posts/regression-title-img.png"
-tags: [Customer Loyalty, Machine Learning, Regression, Python]
----
-
 Our client, a grocery retailer, hired a market research consultancy to append market level customer loyalty information to the database.  However, only around 50% of the client's customer base could be tagged, thus the other half did not have this information present.  Let's use ML to solve this!
 
 # Table of contents
